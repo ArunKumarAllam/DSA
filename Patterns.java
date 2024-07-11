@@ -1,6 +1,6 @@
-public class Main {
+public class Patterns {
     public static void main(String[] args){
-        pattern9(5);
+        pattern6(5);
     }
 
     static void pattern1(int n){
